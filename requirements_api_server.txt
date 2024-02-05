@@ -1,0 +1,12 @@
+
+aiohttp
+pyyaml
+Pillow
+tqdm
+psutil
+confluent_kafka
+sentry-sdk
+mongoengine
+minio
+gitpython
+requests
